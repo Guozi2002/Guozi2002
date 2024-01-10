@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Guozi2002
 - 👀 I’m a senior student in Anhui University
 - My undergraduate major is automation
-- Maybe I will be engaged in SAR image processing during my postgraduate study
+- I will be engaged in SAR image processing during my postgraduate study 
 - I am quite interested in machine learning and computer vision
 
 <!---
